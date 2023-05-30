@@ -21,7 +21,7 @@ Apache License 2.0
 
 ## Citation
 ``` 
-@article{gomes2023intention,
+@article{gomes2023gmoeam,
   title={Interaction-aware Maneuver Intention Prediction using Gated Mixture-of-Experts Attention Mechanism},
   author={Gomes, Iago Pach{\^e}co and Wolf, Cristiano Premebida, Denis Fernando},
   year={2023}
