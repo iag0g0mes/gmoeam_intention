@@ -2,8 +2,7 @@
 
 Created by Iago Pachêco Gomes at USP - ICMC, University of São Paulo - Institute of Mathematics and Computer Science
 
-
-**(waiting for the result of the submission to 26th IEEE International Conference on Intelligent Transportation Systems (ITSC))**
+**(published in 26th IEEE International Conference on Intelligent Transportation Systems - ITSC 2023)**
 
 ## Introduction
 
@@ -12,8 +11,12 @@ This repository contains the implementation of the models proposed and evaluated
 
 ## Abstract
 
-Predicting the behavior of traffic participants is a perceptual task that involves many challenges, such as modeling road geometry and the complex interaction of agents. In this sense, multi-modal perception takes advantage of different information modalities to improve the performance of perception tasks through the combination of features. This paper proposes an Attention-based Interaction-aware Maneuver Prediction framework, called AIMP, using interaction graphs to extract complex interaction features from traffic scenes.  
-In addition, we propose a Gated Mixture-of-Experts Attention Mechanism to fuse information from road geometry, interaction, and motion dynamics, considering prior estimation of the maneuver's intentions, which gives more explainability and informativeness to the fusion process. Experimental results show relevant improvement (2% ~ 9% of accuracy) in the proposed model when compared with other fusion operations. 
+This paper addresses the task of predicting the behavior of traffic participants, which involves complexities such as road geometry and agent interactions. To overcome these challenges, this paper presents a novel framework called AIMP (Attention-based Interaction-aware Maneuver Prediction). AIMP utilizes interaction graphs to extract intricate interaction features from traffic scenes. The framework incorporates a Gated Mixture-of-Experts Attention Mechanism, which combines information from road geometry, interaction patterns, and motion dynamics. This fusion process also considers prior maneuver intention estimations, enhancing both explainability and informativeness. Experimental results highlight a performance enhancement (approximately 2% ~ 9% of accuracy) of the proposed AIMP framework compared to alternative fusion methods.
+
+
+## System Architecture
+
+![Alt System Architecture](/images/model.png)
 
 ## License
 
