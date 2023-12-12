@@ -4,6 +4,8 @@ Created by Iago Pachêco Gomes at USP - ICMC, University of São Paulo - Institu
 
 **(published in 26th IEEE International Conference on Intelligent Transportation Systems - ITSC 2023)**
 
+**(We will finish to update this repository by January 10th, 2024)**
+
 ## Introduction
 
 This repository contains the implementation of the models proposed and evaluated in the article "Interaction-aware Maneuver Intention Prediction using Gated Mixture-of-Experts Attention Mechanism". 
